@@ -119,12 +119,12 @@ Festival "1" --> "1" Address : located_at
 
 ## 🧭 Diagramme de cas d’usage UML
 
-![[diagramme_cas_utilisation_festmap.png]]
+![Diagramme cas d'utilisation](use_case_diagram_festmap_en.png)
 
 ---
 
 ## 🖼️ Wireframes (zoning)
 
-![[Zooning_figma.png]]
+![Zooning](Zooning_figma.png)
 
 ---
